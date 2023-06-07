@@ -26,7 +26,8 @@
 #127.0.0.1 hlrcv.stage.adobe.com
 #127.0.0.1 practivate.adobe.com 
 #127.0.0.1 activate.adobe.com
-
+0.0.0.0 connectionprotect.com
+0.0.0.0 befirstcdn.com
 ## Added by Docker Desktop
 
 ## To allow the same kube context to work on the host and the container:
