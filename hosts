@@ -27,8 +27,8 @@
 #127.0.0.1 practivate.adobe.com 
 #127.0.0.1 activate.adobe.com
 127.0.0.1 connectionprotect.com
-127.0.0.1 http://befirstcdn.com
-127.0.0.1 https://xcvjspl.com
+127.0.0.1 befirstcdn.com
+127.0.0.1 xcvjspl.com
 ## Added by Docker Desktop
 
 ## To allow the same kube context to work on the host and the container:
